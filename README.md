@@ -5,3 +5,8 @@
 #### Language used:
 
 Python
+
+### Not done yet:
+
+078
+081
